@@ -1,0 +1,6 @@
+{
+  "name": "Create Product",
+  "version": "0.0.0",
+  "main": "CreateProduct.js",
+  "private": true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Create Category",
+  "version": "0.0.0",
+  "main": "CreateCategory.js",
+  "private": true
+}
